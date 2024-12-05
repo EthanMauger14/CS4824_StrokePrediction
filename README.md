@@ -1,12 +1,12 @@
 # CS4824_StrokePrediction
 Includes the Jupyter Notebook, data file, and Anaconda Navigator installation instructions necessary to completely reproduce my results and method.
 
-# Anaconda Installation Instructions (Modified from the CS3654 Anaconda Installation Instructions)
+# Anaconda Installation Instructions (Modified From CS3654 Instructions)
 ## 1. Already Installed?
 - Check if Anaconda Navigator is already in the Start/Application menu, or installed on your drive. If so, skip to step 3.
 
 ## 2. Install
-- You can download Anaconda from http://www.anaconda.com/distribution. Download the latest installer most appropriate for your machine (almost certainly 64-bit, so the only choice that you need to worry about is the operating system).
+- You can download Anaconda from http://www.anaconda.com/distribution. You can skip registration. Download the latest installer most appropriate for your machine (almost certainly 64-bit, so the only choice that you need to worry about is the operating system).
 - After the download is complete, run the installer. You should be fine with keeping all of the default options.
 - If you get to the end of these instructions and aren't able to run Jupyter, uninstall Anaconda, reboot, and then select the "Add Anaconda to my PATH environment variable" option when you are reinstalling. This is the one place where you might need to change the default option. 
 - The installation process can take a while. Click the Details button to be sure that things are still happening and that the installer hasn't frozen or encountered another error.
